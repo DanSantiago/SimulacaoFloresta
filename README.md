@@ -1,5 +1,3 @@
-# SimulacaoFloresta
-
 # Simulação Computacional - Incêndio em uma floresta
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/SimulacaoFloresta/blob/main/LICENCE) 
 
